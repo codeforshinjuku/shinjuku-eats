@@ -2,15 +2,15 @@
   <section class="published">
     <div class="published__heading">
       <img src="/images/top_logo.png" alt="ロゴ画像：テイクアウトとデリバリー情報" class="position_image" />
-      <h2 class="heading">情報掲載は無料です</h2>
+      <h2 class="heading">みんなでつくる！新宿区テイクアウト・デリバリー情報</h2>
     </div>
     <div class="published__text">
       <p>
         SHINJUKU
-        EATS（eats.codeforshinjuku.org）への情報掲載を募集しています。情報提供フォームより必要事項をご記入の上、お申込ください。
-        <br />なお、他者による推薦は現在のところうけつけておりません。オーナー、店主、店スタッフの方など当事者が登録してください。当事者からの依頼による代理の方も登録していただけます。
+        EATS（eats.codeforshinjuku.org）では、店舗、そして新宿区内の飲食店を愛するみなさまから飲食店情報を募集しております。
+        <br />情報提供フォームより投稿をお願いいたします。
+        <br />情報が重複する場合には店舗からの情報提供を優先し、事務局で掲載内容の調整を行います。
       </p>
-      <p>商店会加入・非加入は問いません。また掲載料など登録料はかかりません。</p>
 
       <h3>画像の登録について</h3>
 

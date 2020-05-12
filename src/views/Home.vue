@@ -67,6 +67,13 @@
 import ShopItem from "../components/ShopItem";
 import SearchItem from "../components/SearchItem";
 import MainBannerSvg from "../components/MainBannerSvg";
+const shuffle = ([...array]) => {
+  for (let i = array.length - 1; i >= 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+};
 
 const supportAreas = [
   "高田馬場・早稲田",
@@ -141,7 +148,7 @@ export default {
       this.$store.dispatch("setDisplayType", "list");
     }
     const shops = await this.$http.get("data/shops.json");
-    this.shops = shops.data;
+    this.shops = shuffle(shops.data);
     const firstShop = this.filteredShops.find(v => v.latitude);
     this.currentLocation = {
       lat: firstShop.latitude,

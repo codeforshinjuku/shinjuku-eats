@@ -29,8 +29,12 @@
         </div>
       </div>
       <section class="side_menu__section information">
-        <h3 class="section_heading">情報掲載は無料です</h3>
-        <router-link :to="{ name: 'published' }" title="情報掲載についてに移動します" class="square_button">情報掲載方法</router-link>
+        <h3 class="section_heading">お店の情報を集めています</h3>
+        <router-link
+          :to="{ name: 'published' }"
+          title="情報掲載についてに移動します"
+          class="square_button"
+        >お店を掲載する</router-link>
       </section>
       <section class="side_menu__section other_area">
         <h3 class="section_heading">エリア</h3>
@@ -67,7 +71,7 @@
         <div class="text">
           <p>
             このサイトは地域経済に対するCOVID-19の影響を少しでも緩和させることを目的として、Code
-            for Shinjuku、その他の有志によって公開運営されています。
+            for Shinjuku、有志によって公開運営されています。
           </p>
           <p>
             掲載情報は情報提供者から提供されたものです。Code for
