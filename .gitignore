@@ -134,3 +134,4 @@ sketch
 .env.staging
 .env.production
 .gcloud/
+*.icloud
