@@ -28,59 +28,6 @@
       <p>登録情報に不備がある場合、新宿区内に事業の実態がない場合、取得している営業許可の範囲をこえるメニュー（提供できないメニュー）や、公序良俗に反する記述などがある場合には、予告なく内容修正、掲載見送り、削除を行う場合があります。</p>
     </div>
     <a href="#" target="_blank" title="情報提供フォームを新規ウィンドウで開きます" class="square_button">情報提供フォーム</a>
-    <div class="published__text">
-      <h2 class="published__text__heading">ご協力</h2>
-
-      <p class="published__text__description"></p>
-
-      <ul class="published__text__bnrs">
-        <li>
-          <a
-            href="https://sites.google.com/view/takeout-aoba/"
-            target="_blank"
-            title="テイクアウト青葉台！のウェブサイトを新規ウィンドウで開きます"
-          >
-            <img src="/images/bnr_aoba.jpg" alt="青葉台" />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://sites.google.com/view/takeoutazamino/"
-            target="_blank"
-            title="テイクアウトあざみ野！のウェブサイトを新規ウィンドウで開きます"
-          >
-            <img src="/images/bnr_azamino.jpg" alt="あざみ野" />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://sites.google.com/view/takeoutichifuji/"
-            target="_blank"
-            title="テイクアウトあざみ野！のウェブサイトを新規ウィンドウで開きます"
-          >
-            <img src="/images/bnr_ichifuji.jpg" alt="市が尾＆藤が丘" />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://sites.google.com/view/takeouttamaplaza/"
-            target="_blank"
-            title="たまプラーザ！のウェブサイトを新規ウィンドウで開きます"
-          >
-            <img src="/images/bnr_tamapla.jpg" alt="たまプラーザ" />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://sites.google.com/view/takeoutnarakamoshida/"
-            target="_blank"
-            title="テイクアウト奈良＆鴨志田！のウェブサイトを新規ウィンドウで開きます"
-          >
-            <img src="/images/bnr_narakamo.jpg" alt="奈良＆鴨志田" />
-          </a>
-        </li>
-      </ul>
-    </div>
   </section>
 </template>
 
